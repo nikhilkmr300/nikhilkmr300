@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **nikhilkmr300/nikhilkmr300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an undergraduate dual majoring in Computer Science and Physics. Welcome to my GitHub profile!
+
+More about me:  
+[LinkedIn](https://www.linkedin.com/in/nikhil-kumar-profile/)  
+[StackOverflow](https://stackoverflow.com/users/13945013/nikhil-kumar?tab=profile)
