@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 I'm an undergraduate dual majoring in Computer Science and Physics. Welcome to my GitHub profile!
 
 More about me:  
-[LinkedIn](https://www.linkedin.com/in/nikhil-kumar-profile/)  
-[StackOverflow](https://stackoverflow.com/users/13945013/nikhil-kumar?tab=profile)
+[LinkedIn](https://www.linkedin.com/in/nikhil-kumar-profile/)
